@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Apply Current Layout">
         <Item>
           <IdeaActionID>UML.ApplyCurrentLayout</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>416</Count>
+          <Count>417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -71,6 +79,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -694,7 +710,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
