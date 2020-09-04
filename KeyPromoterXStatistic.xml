@@ -1,0 +1,746 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Apply Current Layout">
+        <Item>
+          <IdeaActionID>UML.ApplyCurrentLayout</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Apply Current Layout</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>416</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Ungroup Configurations">
+        <Item>
+          <IdeaActionID>RunDashboard.UngroupConfigurations</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Ungroup Configurations</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="优化导入... (Z)">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>优化导入... (Z)</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止...</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“ApplicationStart (1)”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ApplicationStart (1)”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“ApplicationStart”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ApplicationStart”</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricJayLsh-SpringBoot-1.0-SNAPSHOT.jar”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricJayLsh-SpringBoot-1.0-SNAPSHOT.jar”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootActuatorApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootActuatorApplication”</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootAmqpApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootAmqpApplication”</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootApplication”</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootCacheApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootCacheApplication”</Description>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootElasticsearchApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootElasticsearchApplication”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootProviderApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootProviderApplication”</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootSecurityApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootSecurityApplication”</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshspringbootApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshspringbootApplication”</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“ProviderTicketApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ProviderTicketApplication”</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringCloudConsumerOrder6001Application”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringCloudConsumerOrder6001Application”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringCloudProviderPayment8001Application”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringCloudProviderPayment8001Application”</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringMVC”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringMVC”</Description>
+          <Count>233</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringcloudConsumerApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringcloudConsumerApplication”</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringcloudEurekaApplication (1)”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringcloudEurekaApplication (1)”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringcloudEurekaServer7002Application”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringcloudEurekaServer7002Application”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringcloudProviderApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringcloudProviderApplication”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SscZhtApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SscZhtApplication”</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“ericjaylsh-java [package]”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ericjaylsh-java [package]”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“javaweb”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“javaweb”</Description>
+          <Count>52</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“未命名”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“未命名”</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“重新运行失败的测试”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“重新运行失败的测试”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="切换行断点 (L)">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>切换行断点 (L)</Description>
+          <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="列选择模式 (M)">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>列选择模式 (M)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="删除运行配置">
+        <Item>
+          <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>删除运行配置</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="剪切 (T)">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>剪切 (T)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="声明 (D)">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>声明 (D)</Description>
+          <Count>902</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="实现 (M)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B'</ShortCut>
+          <Description>实现 (M)</Description>
+          <Count>50</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="恢复程序 (G)">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>恢复程序 (G)</Description>
+          <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="拷贝 (C)">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>拷贝 (C)</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="显示格式化文件对话框">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+L'</ShortCut>
+          <Description>显示格式化文件对话框</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="步过 (O)">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>步过 (O)</Description>
+          <Count>69</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="生成... (G)">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>生成... (G)</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="粘贴 (P)">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>粘贴 (P)</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="设置(T)...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>设置(T)...</Description>
+          <Count>38</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'ConnectionUtils'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'ConnectionUtils'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootCacheApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootCacheApplication'</Description>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootCacheApplicationTests.test01'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootCacheApplicationTests.test01'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootCacheApplicationTests.testRedisTemplate'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootCacheApplicationTests.testRedisTemplate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootConsumerApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootConsumerApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootElasticsearchApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootElasticsearchApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootSecurityApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootSecurityApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'SpringCloudProviderPayment8001Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringCloudProviderPayment8001Application'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'SpringMVC'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringMVC'</Description>
+          <Count>115</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'SpringcloudConsumerApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringcloudConsumerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'SpringcloudProviderApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringcloudProviderApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'TestTransaction.testTx'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'TestTransaction.testTx'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'javaweb'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'javaweb'</Description>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) '未命名'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) '未命名'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="跳转到源 (T)">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>跳转到源 (T)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行 (U) 'EricJayLsh-SpringBoo...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行 (U) 'EricJayLsh-SpringBoo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行 (U) '未命名'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>运行 (U) '未命名'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回EricjaylshSpringbootActuatorApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回EricjaylshSpringbootActuatorApplication</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回EricjaylshspringbootApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回EricjaylshspringbootApplication</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回Main">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回Main</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回Main (2)">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回Main (2)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringCloudProviderPayment8001Application">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringCloudProviderPayment8001Application</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringMVC">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringMVC</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringcloudConsumerApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringcloudConsumerApplication</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringcloudEurekaApplication (1)">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringcloudEurekaApplication (1)</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringcloudProviderApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringcloudProviderApplication</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回Test.testAnnotation">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回Test.testAnnotation</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回TestScope.test1">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回TestScope.test1</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回javaweb">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回javaweb</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="重命名... (R)">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>重命名... (R)</Description>
+          <Count>114</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="重新格式化代码... (R)">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>重新格式化代码... (R)</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="项目结构...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>项目结构...</Description>
+          <Count>58</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="（重新）运行">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>（重新）运行</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Rerun in Debug Mode">
+        <Item>
+          <IdeaActionID>RunDashboard.Debug</IdeaActionID>
+          <Description>Rerun in Debug Mode</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="清除所有">
+        <Item>
+          <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
+          <Description>清除所有</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="（重新）在调试模式下运行">
+        <Item>
+          <IdeaActionID>RunDashboard.Debug</IdeaActionID>
+          <Description>（重新）在调试模式下运行</Description>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

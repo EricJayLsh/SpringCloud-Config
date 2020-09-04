@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="back" type="PLAIN_TEXT" />
+      <mapping pattern="临时目录" type="PLAIN_TEXT" />
+      <mapping pattern="文件上传目录" type="PLAIN_TEXT" />
+      <mapping ext="java___jb_tmp___" type="PLAIN_TEXT" />
+      <mapping ext="propars" type="Properties" />
+      <mapping pattern="EmployeeMapper" type="XML" />
+      <mapping pattern="DepartmentMapper" type="XML" />
+      <mapping pattern="PaymentMapper" type="XML" />
+      <mapping pattern="application" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

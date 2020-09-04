@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="120.55.100.249-Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://120.55.100.249:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="F:\work\2020\idea_docker" />
+              <option name="virtualMachinePath" value="/home/ericjaylsh/docker/idea" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
