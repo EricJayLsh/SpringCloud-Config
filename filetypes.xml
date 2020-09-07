@@ -7,6 +7,7 @@
       <mapping pattern="临时目录" type="PLAIN_TEXT" />
       <mapping pattern="文件上传目录" type="PLAIN_TEXT" />
       <mapping pattern="基础依赖" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="java___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="propars" type="Properties" />
       <mapping pattern="EmployeeMapper" type="XML" />
