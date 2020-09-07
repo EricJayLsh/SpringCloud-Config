@@ -390,7 +390,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>98</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>952</Count>
+          <Count>953</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
