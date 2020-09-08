@@ -54,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>529</Count>
+          <Count>530</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -166,7 +166,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止</Description>
-          <Count>83</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止...">
@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1037</Count>
+          <Count>1039</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
