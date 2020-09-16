@@ -113,6 +113,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'Test6.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'Test6.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Module">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
