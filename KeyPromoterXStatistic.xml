@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“HeapTest3”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“HeapTest3”</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“ProviderTicketApplication”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
