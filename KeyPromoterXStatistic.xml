@@ -334,7 +334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“OOMTest”</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ProviderTicketApplication”">
@@ -503,6 +503,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>删除运行配置</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="刷新">
+        <Item>
+          <IdeaActionID>FileChooser.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>刷新</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="剪切 (T)">
