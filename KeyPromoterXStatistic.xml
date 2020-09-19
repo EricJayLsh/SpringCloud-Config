@@ -329,6 +329,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“MetaSpaceTest”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“MetaSpaceTest”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“OOMTest”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
