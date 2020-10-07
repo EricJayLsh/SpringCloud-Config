@@ -825,6 +825,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="返回StringTable">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回StringTable</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="返回Test.testAnnotation">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
