@@ -329,6 +329,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“KafkaApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“KafkaApplication”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“Main”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -791,6 +799,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>返回EricjaylshspringbootApplication</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回KafkaApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回KafkaApplication</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="返回Main">
