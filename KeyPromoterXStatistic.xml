@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1154</Count>
+          <Count>1166</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
