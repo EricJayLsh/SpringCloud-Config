@@ -54,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>611</Count>
+          <Count>614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1275</Count>
+          <Count>1279</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
