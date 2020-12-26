@@ -529,6 +529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“ThreadLocalTest”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ThreadLocalTest”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“ericjaylsh-java [package]”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
