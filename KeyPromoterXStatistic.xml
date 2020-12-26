@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -582,7 +582,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1440</Count>
+          <Count>1448</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -663,6 +663,14 @@
           <ShortCut>'Ctrl+Alt+Shift+L'</ShortCut>
           <Description>显示格式化文件对话框</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="查找使用 (U)">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>查找使用 (U)</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="查找操作... (I)">
