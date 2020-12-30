@@ -9,6 +9,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Analyze with SonarLint">
+        <Item>
+          <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+S'</ShortCut>
+          <Description>Analyze with SonarLint</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Apply Current Layout">
         <Item>
           <IdeaActionID>UML.ApplyCurrentLayout</IdeaActionID>
@@ -718,7 +726,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置(T)...</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="调试 (D) 'ConnectionUtils'">
