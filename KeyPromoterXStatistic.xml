@@ -606,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -734,7 +734,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置(T)...</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="调试 (D) 'ConnectionUtils'">
