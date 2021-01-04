@@ -1,5 +1,6 @@
 <application>
   <component name="TemplateSettings">
+    <defaultShortcut shortcut="CUSTOM" />
     <option name="deletedKeys">
       <list>
         <TemplateKey>
@@ -9,18 +10,6 @@
         <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="tldFunction" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="act" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="fb" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="gf" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="spring" />

@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>618</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -481,6 +481,14 @@
           <Count>233</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“SpringbootDemoApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringbootDemoApplication”</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“SpringbootKafkaApplication”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -606,7 +614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>154</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -646,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1493</Count>
+          <Count>1497</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -734,7 +742,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置(T)...</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="调试 (D) 'ConnectionUtils'">
@@ -975,6 +983,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>返回SpringMVC</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回SpringbootDemoApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringbootDemoApplication</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="返回SpringbootKafkaApplication">
