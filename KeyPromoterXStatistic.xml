@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>624</Count>
+          <Count>625</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -473,6 +473,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“SpringDubbo”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringDubbo”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“SpringMVC”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -654,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1525</Count>
+          <Count>1526</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -985,6 +993,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="返回SpringDubbo">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringDubbo</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="返回SpringMVC">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1078,7 +1094,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>164</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
