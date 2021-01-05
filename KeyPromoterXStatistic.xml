@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>628</Count>
+          <Count>631</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1527</Count>
+          <Count>1529</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -1001,6 +1001,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="返回SpringDubboProvider">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回SpringDubboProvider</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="返回SpringMVC">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1094,7 +1102,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
@@ -1110,7 +1118,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>项目结构...</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="（重新）运行">
