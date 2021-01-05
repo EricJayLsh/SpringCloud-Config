@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>625</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ungroup Configurations">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1526</Count>
+          <Count>1527</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>168</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
