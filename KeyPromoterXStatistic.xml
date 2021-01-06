@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>672</Count>
+          <Count>682</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止...</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ApplicationStart (1)”">
@@ -326,7 +326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshSpringbootDubboConsumerApplication”</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“EricjaylshSpringbootDubboProviderApplication”">
@@ -334,7 +334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshSpringbootDubboProviderApplication”</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“EricjaylshSpringbootElasticsearchApplication”">
@@ -342,6 +342,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshSpringbootElasticsearchApplication”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootKafkaApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootKafkaApplication”</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -646,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -686,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1565</Count>
+          <Count>1567</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -702,7 +710,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>恢复程序 (G)</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="拷贝 (C)">
@@ -753,6 +761,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="步入 (I)">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>步入 (I)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="步过 (O)">
         <Item>
           <IdeaActionID>StepOver</IdeaActionID>
@@ -774,7 +790,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>粘贴 (P)</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="设置(T)...">
@@ -1142,7 +1158,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>182</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
