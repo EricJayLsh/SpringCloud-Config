@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>636</Count>
+          <Count>640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1532</Count>
+          <Count>1535</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>177</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>项目结构...</Description>
-          <Count>71</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="（重新）运行">
