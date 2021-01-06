@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ungroup Configurations">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ApplicationStart (1)”">
@@ -887,6 +887,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>调试 (D) 'SpringcloudConsumerApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'SpringcloudEurekaServer7002Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringcloudEurekaServer7002Application'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="调试 (D) 'SpringcloudProviderApplication'">
