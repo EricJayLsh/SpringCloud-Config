@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>661</Count>
+          <Count>672</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止...</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ApplicationStart (1)”">
@@ -271,6 +271,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“ApplicationStart”</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“DubboConsumerApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“DubboConsumerApplication”</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“EricJayLsh-SpringBoot-1.0-SNAPSHOT.jar”">
@@ -311,6 +319,22 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshSpringbootCacheApplication”</Description>
           <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootDubboConsumerApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootDubboConsumerApplication”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EricjaylshSpringbootDubboProviderApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EricjaylshSpringbootDubboProviderApplication”</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“EricjaylshSpringbootElasticsearchApplication”">
@@ -662,7 +686,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1553</Count>
+          <Count>1565</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -766,6 +790,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>调试 (D) 'ConnectionUtils'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'DubboConsumerApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'DubboConsumerApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -910,6 +942,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>返回EricjaylshSpringbootActuatorApplication</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回EricjaylshSpringbootDubboProviderApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回EricjaylshSpringbootDubboProviderApplication</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1102,7 +1142,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>180</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
