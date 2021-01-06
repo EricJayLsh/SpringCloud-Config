@@ -878,7 +878,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>跳转到源 (T)</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行 (U) 'EricJayLsh-SpringBoo...'">
