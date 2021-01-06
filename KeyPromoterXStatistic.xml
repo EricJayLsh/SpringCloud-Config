@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>644</Count>
+          <Count>661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止...</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ApplicationStart (1)”">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1540</Count>
+          <Count>1553</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
