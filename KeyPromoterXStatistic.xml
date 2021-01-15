@@ -913,6 +913,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="调试 (D) 'SpringcloudProvider8001Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'SpringcloudProvider8001Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="调试 (D) 'SpringcloudProviderApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
