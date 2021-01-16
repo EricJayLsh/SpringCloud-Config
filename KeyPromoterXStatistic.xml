@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>726</Count>
+          <Count>727</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -382,7 +382,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EurekaApplication”</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“HeapTest1”">
@@ -455,6 +455,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“OOMTest”</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“ProviderApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“ProviderApplication”</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ProviderTicketApplication”">
@@ -678,7 +686,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -1017,6 +1025,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="返回EurekaApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回EurekaApplication</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="返回Java8">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1062,6 +1078,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>返回ProducerTest</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="返回ProviderApplication">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回ProviderApplication</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
