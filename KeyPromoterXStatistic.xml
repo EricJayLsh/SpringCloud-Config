@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>721</Count>
+          <Count>723</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ungroup Configurations">
@@ -375,6 +375,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshspringbootApplication”</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“EurekaApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“EurekaApplication”</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“HeapTest1”">
