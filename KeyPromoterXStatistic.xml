@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>727</Count>
+          <Count>728</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -486,6 +486,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“ScheduledExecutorServiceTest”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SmartAdminApplication”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SmartAdminApplication”</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
