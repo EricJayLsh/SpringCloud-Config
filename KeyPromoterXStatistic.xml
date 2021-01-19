@@ -1307,6 +1307,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Reimport All Maven Projects">
+        <Item>
+          <IdeaActionID>Maven.Reimport</IdeaActionID>
+          <Description>Reimport All Maven Projects</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun in Debug Mode">
         <Item>
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
