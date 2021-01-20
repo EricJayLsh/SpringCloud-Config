@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>760</Count>
+          <Count>762</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -382,7 +382,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“EricjaylshSpringbootProjectApplication”</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“EricjaylshSpringbootProviderApplication”">
@@ -766,7 +766,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1663</Count>
+          <Count>1664</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
