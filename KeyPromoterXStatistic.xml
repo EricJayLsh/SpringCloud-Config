@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>762</Count>
+          <Count>763</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -766,7 +766,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1665</Count>
+          <Count>1668</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -934,6 +934,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>调试 (D) 'EricjaylshSpringbootElasticsearchApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="调试 (D) 'EricjaylshSpringbootProjectApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>调试 (D) 'EricjaylshSpringbootProjectApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1310,7 +1318,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>重新格式化代码... (R)</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="项目结构...">
@@ -1318,7 +1326,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>项目结构...</Description>
-          <Count>79</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="（重新）运行">
