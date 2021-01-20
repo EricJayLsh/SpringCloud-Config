@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>744</Count>
+          <Count>749</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -750,7 +750,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1647</Count>
+          <Count>1648</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
