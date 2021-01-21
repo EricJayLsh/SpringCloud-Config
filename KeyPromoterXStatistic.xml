@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>781</Count>
+          <Count>782</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -582,6 +582,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止“SpringCloudConsumerOrder6001Application”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“SpringCloudGateway9527Application”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“SpringCloudGateway9527Application”</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
