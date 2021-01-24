@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>791</Count>
+          <Count>793</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -254,7 +254,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'Ctrl+Alt+O'</ShortCut>
           <Description>优化导入... (Z)</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止">
@@ -270,7 +270,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止...</Description>
-          <Count>42</Count>
+          <Count>44</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止“AIOServer”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“AIOServer”</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止“ApiGatewayApplication”">
@@ -806,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1728</Count>
+          <Count>1734</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -1382,7 +1390,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>重新格式化代码... (R)</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="项目目录">

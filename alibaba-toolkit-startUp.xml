@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="H:/2021/EricJayLshJava" startUpFlag="FIRST" />
     <entry projectPath="H:/2021/EricJayLshSpringBoot" startUpFlag="FIRST" />
     <entry projectPath="H:/2021/github/spring-boot-demo" startUpFlag="FIRST" />
     <entry projectPath="H:/2021/github/springcloud-learning" startUpFlag="FIRST" />
