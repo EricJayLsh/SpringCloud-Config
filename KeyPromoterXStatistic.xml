@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>793</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -774,7 +774,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点 (L)</Description>
-          <Count>177</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="列选择模式 (M)">
@@ -814,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1734</Count>
+          <Count>1745</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -830,7 +830,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>恢复程序 (G)</Description>
-          <Count>63</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="拷贝 (C)">
@@ -902,7 +902,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>步过 (O)</Description>
-          <Count>162</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="生成... (G)">
