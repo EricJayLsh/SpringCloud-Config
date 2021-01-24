@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'ThreadLocalTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ThreadLocalTest.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Module">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -822,7 +830,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1787</Count>
+          <Count>1788</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
