@@ -321,6 +321,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“Client”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“Client”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“DubboConsumerApplication”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1772</Count>
+          <Count>1773</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -1129,6 +1137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="返回Client">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>返回Client</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="返回EricjaylshSpringbootActuatorApplication">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1390,7 +1406,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>重命名... (R)</Description>
-          <Count>199</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="重新格式化代码... (R)">
@@ -1398,7 +1414,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>重新格式化代码... (R)</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="项目目录">
