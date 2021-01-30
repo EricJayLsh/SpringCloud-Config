@@ -30,7 +30,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>804</Count>
+          <Count>808</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>99</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -838,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1840</Count>
+          <Count>1845</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -846,7 +846,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>实现 (M)</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复程序 (G)">
