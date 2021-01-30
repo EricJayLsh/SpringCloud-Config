@@ -297,6 +297,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止“AppRun”">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止“AppRun”</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止“ApplicationStart (1)”">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -830,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1837</Count>
+          <Count>1840</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
@@ -838,7 +846,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>实现 (M)</Description>
-          <Count>104</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复程序 (G)">
