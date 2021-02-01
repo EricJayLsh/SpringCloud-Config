@@ -822,7 +822,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>刷新</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="剪切 (T)">
@@ -838,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>声明 (D)</Description>
-          <Count>1868</Count>
+          <Count>1869</Count>
         </Item>
       </Statistic>
       <Statistic Action="实现 (M)">
