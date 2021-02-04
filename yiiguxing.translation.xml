@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configure the application. Normally all you would need to do is to add sources * (e.g. config classes) because other settings have sensible defaults. You might * choose (for instance) to add default command line arguments, or set an active * Spring profile. * @param builder a builder for the application context * @return the application builder * @see SpringApplicationBuilder" />
       <item value="/** * Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation. */" />
       <item value="/** * Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down. * * &lt;p&gt;This method does not wait for previously submitted tasks to * complete execution. Use {@link #awaitTermination awaitTermination} * to do that. * * @throws SecurityException if a security manager exists and * shutting down this ExecutorService may manipulate * threads that the caller is not permitted to modify * because it does not hold {@link * java.lang.RuntimePermission}{@code (&quot;modifyThread&quot;)}, * or the security manager's {@code checkAccess} method * denies access. */" />
       <item value="/** * Specify if the condition should match if the property is not set. Defaults to * {@code false}. * @return if should match if the property is missing */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
